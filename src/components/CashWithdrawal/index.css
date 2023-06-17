@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.head{
+    color: black;
+}
+.cont2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
